@@ -19,7 +19,7 @@ body {
     background-image:url(images/beardbalmtest.png) ;
     background-size: cover;
     background-position: bottom center;
-    height: 700px;
+    height: 600px;
     width: 100%;
   }
 
@@ -29,3 +29,11 @@ body {
     top: 50px;
     width: 400px;
     margin: 0 auto;  
+  }
+#lowerpic {
+    background-image: url(images/groomingmaterials.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}  
